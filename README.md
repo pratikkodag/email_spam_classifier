@@ -1,6 +1,3 @@
-Here's a sample README file for your Email Spam Classifier project on GitHub:
-
----
 
 # Email Spam Classifier
 
