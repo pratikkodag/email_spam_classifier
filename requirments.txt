@@ -1,5 +1,0 @@
-streamlit
-nltk
-google-generative-ai
-nltk.download('punkt')
-nltk.download('stopwords')
