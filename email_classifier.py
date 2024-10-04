@@ -5,6 +5,8 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
 
+nltk.download('punkt')
+
 ps=PorterStemmer()
 
 def transform_of_text(text): # transforming the data by using tokenization string manipulation, stop words removal , punctions removal and stemming
